@@ -15,5 +15,5 @@ I am Sooraj MS, A webdesigner and an aspiring tech entrepreneur.
 
 ## Projects & Interests
 - Interactive web applications
-- Real-world problem solving projects
+- Real world problem solving projects
 - Innovative and user centric solutions
