@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am Sooraj MS, a webdesigner and an aspiring tech entrepreneur.
+I am Sooraj MS, A webdesigner and an aspiring tech entrepreneur.
 
 ## What I Do
 - 🌐 Web Design & Frontend Development
@@ -15,5 +15,5 @@ I am Sooraj MS, a webdesigner and an aspiring tech entrepreneur.
 
 ## Projects & Interests
 - Interactive web applications
-- Real-world problem-solving projects
-- Innovative and user-centric solutions
+- Real-world problem solving projects
+- Innovative and user centric solutions
